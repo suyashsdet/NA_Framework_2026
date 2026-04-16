@@ -1,0 +1,1 @@
+{"uuid":"78da3b6c-a238-4afd-b75d-97caad2aaa60","name":"productInformationTestLinkedHashMap","children":["772d91ce-c2a2-4114-8db6-17ec298e0c48"],"befores":[{"name":"productDataLinkedHashMap","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1775892498266,"stop":1775892498266}],"afters":[],"start":1775892498266,"stop":1775892499907}
